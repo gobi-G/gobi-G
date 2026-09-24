@@ -3,7 +3,6 @@
 Senior frontend engineer (TypeScript, React & React Native) with a product mindset. I ship end-to-end, keep things healthy in production (including on-call), and iterate with data. AI enthusiast — I like integrating LLMs where they improve developer and user experience.
 
 - 🔭 Current focus: cloud-hosted React/React Native apps; CI/CD (GitHub Actions, Bitrise, Azure Pipelines); testing (Jest/RTL, Detox)
-- 🧠 AI: LLM integrations and prompt design
 - 🌍 Remote-first · Europe/Berlin
 
 ## Tech
