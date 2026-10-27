@@ -17,6 +17,7 @@ Senior mobile & full-stack engineer. 8 years shipping React Native apps end to e
 
 ## Side projects
 
+- **[VaultCollector](https://github.com/gobi-G/vaultcollector-showcase)**: AI-powered collection tracker. Identifies trading cards from photos with GPT-4o Vision; Expo, Supabase Edge Functions, RevenueCat, Maestro E2E
 - **[ai-pr-reviewer-action](https://github.com/gobi-G/ai-pr-reviewer-action)**: GitHub Action that reviews pull requests for accessibility, performance and security with LLMs (OpenAI or Ollama)
 - **[ai-log-triage](https://github.com/gobi-G/ai-log-triage)**: Turns raw logs into summaries, root-cause hypotheses and next steps
 - **Cooked** *(coming soon)*: Social cooking journal built with Expo SDK 57, React Native 0.86 and React 19
