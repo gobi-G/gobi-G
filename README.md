@@ -1,6 +1,6 @@
 ## Hi, I'm Gopigan 👋
 
-Senior mobile & full-stack engineer. 8 years shipping React Native apps end to end, including 2.5 years as Technical Lead. I work AI-first: coding agents (Claude Code, Codex) let me ship faster, while I own architecture, code review and test coverage.
+Senior mobile & full-stack engineer. 8 years shipping React Native apps end to end, including 3 years as Technical Lead. I work AI-first: coding agents (Claude Code, Codex) let me ship faster, while I own architecture, code review and test coverage.
 
 - 📚 Currently building the [READO](https://reado.app) app for iOS and Android: React Native/Expo, Firebase, PostgreSQL, Node.js/Hono
 - 🤖 Into LLM features that actually help users and developers
